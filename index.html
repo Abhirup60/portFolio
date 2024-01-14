@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Abhirup</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    
+    <style>
+      .head {
+        display: flex;
+        justify-content: space-between;
+        align-content: center;
+        border-radius: 30px;
+        background: linear-gradient(145deg, #5da9ca, #2294c5);
+        box-shadow:  35px 35px 70px #5b9cb7,
+             -35px -35px 70px #35b6ee;
+      }
+      .image-div {
+        width: 15vw;
+        height: 30vh;
+        /* border: 2px solid black; */
+        margin: auto;
+        margin-top: 1%;
+      }
+      .main-image {
+        border-radius: 30%;
+        /*width: 100%;
+        height: 100%;*/
+        /*object-fit: cover;*/
+        height: 100px;
+        width: 130px;
+      }
+      .detail {
+        margin-top: 2%;
+        /* display: flex;
+        flex-direction: row; */
+        /* gap: 5px; */
+        font-size: 2rem;
+      }
+      /* @media only screen and (max-width: 770px) {
+        .details {
+          display: grid;
+          grid-template-columns: 5fr;
+          place-items: center;
+          
+        }
+      } */
+      .project {
+        margin-top: 5%;
+        /* height: 40vh; */
+        padding: 5px;
+        border-radius: 30px;
+        background: linear-gradient(145deg, #5da9ca, #3fabd9);
+        box-shadow:  35px 35px 70px #5b9cb7,
+             -35px -35px 70px #35b6ee;
+      }
+      .name-pr {
+        margin-left: 2%;
+        color: rgb(249, 0, 0);
+
+      }
+      .web {
+        position: relative;
+        left: 3%;
+        font-weight: bolder;
+      }
+      .blur {
+        position: relative;
+        top: 2%;
+        text-decoration: none;
+      }
+      h1 {
+        font-family: 'Times New Roman', Times, serif;
+      }
+      
+    </style>
+    <link rel="stylesheet" href="bootstrap.css" />
+  </head>
+  <body>
+    <div class="container head mt-5">
+      <section class="container detail">
+        <h1>Name: Abhirup Basu</h1>
+        <h1>Dept: CSBS</h1>
+        <h1>Batch: 02</h1>
+      </section>
+      <div class="image-div">
+        <img src="abhirup.jpg" alt="" class="img-fluid main-image" />
+      </div>
+    </div>
+    <section class="container project list">
+      <h1 class="name-pr blur">Bootstrap Project</h1>
+      <div class="container web pr1 blur">&#10148;
+        <a href="https://travel-website-project-three.vercel.app/" target="_blank"
+        style="color: black;">Travel-X</a
+        >
+      </div>
+      <h1 class="name-pr" >Javascript Projects</h1>
+      <div class="container web pr2 blur">&#10148;
+        <a
+          href="https://weather-app-eight-lake-80.vercel.app/"
+          target="_blank"
+           style="color: black;">Weather_APP</a
+        >
+      </div>
+      <div class="container web p3 blur">&#10148;
+        <a
+          href="https://quiz-app-steel-two.vercel.app/"
+          target="_blank"
+          style="color: black;"> Quiz_APP</a
+        >
+      </div>
+      <div class="container web pr4 blur">&#10148;
+        <a href="https://to-do-list-tan-alpha-47.vercel.app/" target="_blank"
+        style="color: black;"> TODO LIST</a
+        >
+      </div>
+      <div class="container web pr5 blur">&#10148;
+        <a href="https://qr-generate-three.vercel.app/" target="_blank"
+        style="color: black;"> QR_APP</a
+        >
+      </div>
+    </section>
+  </body>
+</html>
