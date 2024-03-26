@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhirup60.github.io/portFolio/](https://abhirup60.github.io/portFolio/)
 
-- 💬 Ask me about **MERN, Spring Boot**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **abhirupbasu90@gmail.com**
 
