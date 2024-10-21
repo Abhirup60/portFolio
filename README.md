@@ -1,6 +1,6 @@
 # portFolio
 <h1 align="center">Hi 👋, I'm Abhirup Basu</h1>
-<h3 align="center">A passionate Android developer from India.</h3>
+<h3 align="center">A passionate Backend developer from India.</h3>
 
 - 🌱 I’m currently learning **React.js Node.js Express.js MongoDB (I am interested in Android Development with React Native)**
 
