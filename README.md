@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhirup Basu</h1>
 <h3 align="center">A passionate Android developer from India.</h3>
 
-- 🌱 I’m currently learning **React.js Node.js Express.js MongoDB (I am interested in Android Development with Kotlin and also React Native)**
+- 🌱 I’m currently learning **React.js Node.js Express.js MongoDB (I am interested in Android Development with React Native)**
 
 - 👨‍💻 All of my projects are available at [https://abhirup60.github.io/portFolio/](https://abhirup60.github.io/portFolio/)
 
